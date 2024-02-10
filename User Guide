@@ -1,7 +1,7 @@
 A sorted multiset uses different functions 
 
 -Syntax:--->
-  var_name=sortedmultiset()--->To create an object of sorted multiset
+  var_name=sortedmultiset.sortedmultiset()--->To create an object of sorted multiset
 
 -Functions :-->
     var_name.append(element:int)---> To add an element in  O(log n).
