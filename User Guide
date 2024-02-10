@@ -1,12 +1,17 @@
 A sorted multiset uses different functions 
 
 -Syntax:--->
-  var_name=sortedmultiset.sortedmultiset()--->To create an object of sorted multiset
+  -To Import multiset:-->
+      import sortedmultiset
+  -To access:-->
+      var_name=sortedmultiset.orderdmultiset()--->To create an object of sorted multise
 
--Functions :-->
-    var_name.append(element:int)---> To add an element in  O(log n).
-    var_name.search(element:int)--->To search an element in O(log n).
-    var_name.erase(element:int)--->To delete an element in O(log n).
+-Functions :--->
+    var_name.append(element:int):-->
+          -To add an element in  O(log n).
+    var_name.search(element:int):-->
+          -To search an element in O(log n).
+    var_name.erase(element:int)-->To delete an element in O(log n).
 
 -To access all the stored elements u can use following syntax:-->
     var_name.multiset---> A list where all the element are stored.
