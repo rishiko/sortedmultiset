@@ -4,7 +4,10 @@ A sorted multiset uses different functions
   -To Import multiset:-->
       import sortedmultiset
   -To access:-->
-      var_name=sortedmultiset.orderdmultiset()--->To create an object of sorted multise
+      var_name=sortedmultiset.orderdmultiset()--->To create an object of sorted multiset
+  -To look at multiset
+      var_name.multiset ----> A list where elements are present which are added to multiset.
+
 
 -Functions :--->
     var_name.append(element:int):-->
