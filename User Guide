@@ -8,6 +8,11 @@ poping out an element from left and poopoing out an element from right all opera
 
 4)we can make a ascending multiset as well as descending multiset via providing a parameter in object reverse=True for descending.
 
+NOTE:->
+    This library is data type oriented if u have inserted a Numerical data(int,float) before then you can append other 
+    type of data in it.
+
+
 - How to create multiset :-->
     For asceding multiset:->
         var_name=sortedmultiset.sortedmultiset(reverse=False)#--->To create an object of ascending sorted multiset .
